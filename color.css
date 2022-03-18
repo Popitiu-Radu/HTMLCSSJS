@@ -1,0 +1,30 @@
+.first {
+   display: flex;
+   flex-direction: column;
+   background-color: #1f2937;
+   padding: 10px;
+   color: white;
+   font-size: 20px;
+   font-weight: bold;
+  font-family: 'Norse-Bold', sans-serif;
+ 
+   
+}
+
+.buttons {
+    display: flex;
+    gap: 25px;
+    background-color: #3882f6;
+    padding: 10px;
+}
+
+button {
+    border-radius: 10px;
+    padding: 2px 20px;
+    color: #1f2937
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
